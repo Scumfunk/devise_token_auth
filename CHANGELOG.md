@@ -1,5 +1,10 @@
 # Change Log
 
+## v0.1.44
+
+- update_auth_header -> updated validation
+
+
 ## [v0.1.43](https://github.com/lynndylanhurley/devise_token_auth/tree/HEAD)
 
 [Full Changelog](https://github.com/lynndylanhurley/devise_token_auth/compare/v0.1.0...HEAD)
